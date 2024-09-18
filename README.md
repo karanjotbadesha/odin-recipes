@@ -1,0 +1,1 @@
+This project is from The Odin Project. It is the first project that I am doing and is related to the HTML section of th ecourse. After completing this project, I will demonstrate that I have basic HTML skills.
